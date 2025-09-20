@@ -5,5 +5,5 @@ I'm just a normal computer systems student, and now I am studying `python`, `she
 
 <picture align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aKqir24&show_icons=true&bg_color=00000000&border_color=00000000"/*>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aKqir24&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aKqir24&theme=transparent"/>
 </picture>
