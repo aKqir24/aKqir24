@@ -1,4 +1,5 @@
-# ✋ __Hi I am Akqir!!__
+<h1 align="center">✋ Hi I am Akqir!! </h1>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=aKqir24"> </div><br>
 I'm just a normal computer systems student, and now I am studying `python`, `shell`, `c#`, `css`, `html`, `javascript`, `sql`, and `kotlin` for my future plans in becoming a software developer. My progress has been slow for a while, but I will try my what I can to be able to do it :)
 
 ## ⚙️ Technologies
