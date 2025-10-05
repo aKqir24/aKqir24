@@ -14,3 +14,4 @@ It is not much, but it is my honest work:<br>
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aKqir24&theme=transparent)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aKqir24&theme=transparent)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aKqir24&layout=pie&theme=transparent&border_color=00000000)
