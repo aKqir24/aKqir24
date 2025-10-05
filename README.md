@@ -2,7 +2,7 @@
 I'm just a normal computer systems student, and now I am studying `python`, `shell`, `c#`, `css`, `html`, `javascript`, `sql`, and `kotlin` for my future plans in becoming a software developer. My progress has been slow for a while, but I will try my what I can to be able to do it :)
 
 ## ⚙️ Technologies
-
+It is not much, but it is my honest work:<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
