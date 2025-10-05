@@ -12,5 +12,5 @@ It is not much, but it is my honest work:<br>
 
 ## 📊 __Statistics__
 
- ![](https://github-readme-stats.vercel.app/api?username=aKqir24&show_icons=true&theme=transparent&border_color=00000000&hide_rank=true)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aKqir24&theme=transparent)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aKqir24&theme=transparent)
