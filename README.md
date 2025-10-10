@@ -1,6 +1,6 @@
 <h1 align="center">✋ Hi I am Akqir!! </h1>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=aKqir24"> </div><br>
-I'm just a normal computer systems student, and a linux enthusiast. Currently I am now studying software development, scripting, and databases from college for my future plans in becoming a software developer. My progress has been slow for a while, but I will try my what I can to be able to do it :)
+I'm just a normal computer systems student, and a linux enthusiast. Currently I am now studying software development, scripting, and databases from my college for my future plans in becoming a software developer. My progress has been slow for a while, but I will try my what I can to be able to do it :)
 
 ## ⚙️ __Technologies__
 It is not much, but it is my honest work:<br>
