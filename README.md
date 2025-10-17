@@ -10,6 +10,7 @@ I'm just a normal computer systems student, and a linux enthusiast. Currently I 
 ![VS Codium](https://img.shields.io/badge/VS%20Codium-0078d7?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
 <br>
+![Markdown](https://img.shields.io/badge/Markdown%20-242424?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logoColor=white&color=663399&logo=css)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
