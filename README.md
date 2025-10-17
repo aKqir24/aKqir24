@@ -20,5 +20,5 @@ I'm just a normal computer systems student, and a linux enthusiast. Currently I 
   
 ## 📊 __Statistics__
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aKqir24&theme=transparent)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aKqir24&theme=transparent)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aKqir24&theme=transparent)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aKqir24&theme=transparent)
