@@ -2,6 +2,9 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=aKqir24&style=for-the-badge"> </div><br>
 I'm just a normal computer systems student, and a linux enthusiast. Currently I am now studying software development, scripting, and databases from my college for my future plans in becoming a software developer. My progress has been slow for a while, but I will try my what I can to be able to do it :)
 
+## 📦 Project
+These are things I enjoy using and developing namely [walset](https://github.com/aKqir24/walset) a wrapper for pywal which supports dynamic theming in your machine and [OLDTUBE Tweaks](https://github.com/aKqir24/OldTube-Tweaks) an sylus userstyle to bring back youtube's old look alongside with new tweak options. 
+
 ## ⚙️ Tech Stack
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
