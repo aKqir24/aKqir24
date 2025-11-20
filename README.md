@@ -3,7 +3,7 @@
 I'm just a normal computer systems student, and a linux enthusiast. Currently I am now studying software development, scripting, and databases from my college for my future plans in becoming a software developer. My progress has been slow for a while, but I will try my what I can to be able to do it :)
 
 ## 📦 Projects
-These are things I enjoy using and developing namely [walset](https://github.com/aKqir24/walset) a wrapper for pywal which supports dynamic theming in your machine and [OLDTUBE Tweaks](https://github.com/aKqir24/OldTube-Tweaks) an sylus userstyle to bring back youtube's old look alongside with new tweak options. I have some do have projects from the past that I really can't forget: [Animated-Inventory-GUI](https://github.com/aKqir24/Animated-Inventory-GUI.git), and [Doki-doki-Theme-WEB-Improved](https://github.com/aKqir24/Doki-doki-Theme-WEB-Improved), they are mostly based on someones project so credit them so.
+These are things I enjoy using and developing namely [walset](https://github.com/aKqir24/walset) a wrapper for pywal which supports dynamic theming in your machine and [OLDTUBE Tweaks](https://github.com/aKqir24/OldTube-Tweaks) an sylus userstyle to bring back youtube's old look alongside with new tweak options. I do have some projects from the past that I really can't forget: [Animated-Inventory-GUI](https://github.com/aKqir24/Animated-Inventory-GUI.git), and [Doki-doki-Theme-WEB-Improved](https://github.com/aKqir24/Doki-doki-Theme-WEB-Improved), they are mostly based on someones project so credit them so.
 
 ## ⚙️ Tech Stack
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
