@@ -1,7 +1,8 @@
 <div align="center">
   
 # ✋ Hi I am Akqir!!
-![PF_Views](https://komarev.com/ghpvc/?username=aKqir24&style=for-the-badge)<br><br>
+![PF_Views](https://komarev.com/ghpvc/?username=aKqir24&style=for-the-badge)
+
 I'm just a normal computer systems student, and a linux enthusiast. Currently I am now studying software development, scripting, and databases from my college for my future plans in becoming a software developer. My progress has been slow for a while, but I will try my what I can to be able to do it :)</div>
 
 ## 📦 Projects
@@ -13,7 +14,8 @@ These are things I enjoy using and developing namely [walset](https://github.com
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Codium](https://img.shields.io/badge/VS%20Codium-0078d7?style=for-the-badge&logo=vscodium&logoColor=white)
-![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)<br>
+![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
+
 ![Markdown](https://img.shields.io/badge/Markdown%20-242424?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logoColor=white&color=663399&logo=css)
