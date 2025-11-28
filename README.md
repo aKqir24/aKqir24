@@ -1,6 +1,8 @@
-<div align="center"><h1 align="center">✋ Hi I am Akqir!! </h1>
-<img src="https://komarev.com/ghpvc/?username=aKqir24&style=for-the-badge"></img><br><br>
-<p>I'm just a normal computer systems student, and a linux enthusiast. Currently I am now studying software development, scripting, and databases from my college for my future plans in becoming a software developer. My progress has been slow for a while, but I will try my what I can to be able to do it :)</p></div>
+<div align="center">
+  
+# ✋ Hi I am Akqir!!
+![PF_Views](https://komarev.com/ghpvc/?username=aKqir24&style=for-the-badge)<br><br>
+I'm just a normal computer systems student, and a linux enthusiast. Currently I am now studying software development, scripting, and databases from my college for my future plans in becoming a software developer. My progress has been slow for a while, but I will try my what I can to be able to do it :)</div>
 
 ## 📦 Projects
 These are things I enjoy using and developing namely [walset](https://github.com/aKqir24/walset) a wrapper for pywal which supports dynamic theming in your machine and [OLDTUBE Tweaks](https://github.com/aKqir24/OldTube-Tweaks) an sylus userstyle to bring back youtube's old look alongside with new tweak options. I do have some projects from the past that I really can't forget: [Animated-Inventory-GUI](https://github.com/aKqir24/Animated-Inventory-GUI.git), and [Doki-doki-Theme-WEB-Improved](https://github.com/aKqir24/Doki-doki-Theme-WEB-Improved), they are mostly based on someones project so credit them so.
@@ -21,6 +23,6 @@ These are things I enjoy using and developing namely [walset](https://github.com
 ![C#](https://img.shields.io/badge/%23-239120.svg?style=for-the-badge&logo=c&logoColor=white)
   
 ## 📊 Statistics
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aKqir24&theme=transparent)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aKqir24&theme=transparent)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aKqir24&theme=transparent)
+ ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aKqir24&theme=transparent)
+ ![Most_Commit_Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aKqir24&theme=transparent)
+ ![Profile_Sum](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aKqir24&theme=transparent)
