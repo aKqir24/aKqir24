@@ -13,12 +13,18 @@ These are things I enjoy using and developing namely [walset](https://github.com
 
 ## ⚙️ Tech Stack
 
+<div align="center">
+<h3>🧪 Software</h3>
+  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Codium](https://img.shields.io/badge/VS%20Codium-0078d7?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
+
+<h3>📎 Languages</h3>
+
 ![Markdown](https://img.shields.io/badge/Markdown%20-242424?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logoColor=white&color=663399&logo=css)
@@ -26,7 +32,8 @@ These are things I enjoy using and developing namely [walset](https://github.com
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![C#](https://img.shields.io/badge/%23-239120.svg?style=for-the-badge&logo=c&logoColor=white)
-  
+</div>
+
 ## 📊 Statistics
 
  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aKqir24&theme=transparent)
