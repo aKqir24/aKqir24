@@ -1,10 +1,7 @@
-# ✋ Hi I am Akqir
+![Stats](https://pixel-profile.vercel.app/api/github-stats?username=aKqir24&dithering=true&pixelate_avatar=false&background=transparent&include_all_commits=true&hide=avatar)
 
-![PF_Views](https://komarev.com/ghpvc/?username=aKqir24&style=for-the-badge)
+# ✋ Hi, I am Akqir
 
-I'm just a normal computer systems student, and a linux enthusiast. Currently I am now studying software development, scripting, and databases from my college for my future plans in becoming a software developer. My progress has been slow for a while, but I will try my what I can to be able to do it :)
+My real name is Andrei, currently a first year Information System student focusing in learning C#. I am actively going to college, at the same time developing programs that might fill my portfolio in the future.
 
-#
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aKqir24&theme=transparent)
-![Profile_Sum](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aKqir24&theme=transparent&utcOffset=8)
+Also, I am a linux enthusiast and love testing new apps, algorithms, and technologies in my free time. 
