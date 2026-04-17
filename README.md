@@ -1,4 +1,4 @@
-![Stats](https://pixel-profile.vercel.app/api/github-stats?username=aKqir24&dithering=true&theme=road_trip&include_all_commits=true&hide=avatar)
+![Stats](https://pixel-profile.vercel.app/api/github-stats?username=aKqir24&theme=road_trip&include_all_commits=true&hide=avatar)
 
 # ✋ Hi, I am Akqir
 
