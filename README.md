@@ -10,4 +10,4 @@ Also, I am a linux enthusiast and love testing new apps, algorithms, and technol
 
 [![Language](https://skillicons.dev/icons?i=cs,html,css,bash,python,lua)](https://skillicons.devs.devevv)
 
-[![Software](https://skillicons.dev/icons?i=vscodium,neovim,debian)](https://skillicons.devdevons.devons.dev)
+[![Software](https://skillicons.dev/icons?i=github,git,vscodium,neovim,debian)](https://skillicons.devdevons.devons.dev)
