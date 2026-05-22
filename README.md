@@ -5,3 +5,7 @@
 My real name is Andrei, currently a first year Information System student focusing in learning C#. I am actively going to college, at the same time developing programs that might fill my portfolio in the future.
 
 Also, I am a linux enthusiast and love testing new apps, algorithms, and technologies in my free time. 
+
+## 🧰 Technologies
+
+[![Language](https://skillicons.dev/icons?i=cs,html,css,bash,python,lua)](https://skillicons.devs.devevv)
